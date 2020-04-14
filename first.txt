@@ -5,3 +5,5 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 git remove
 
 git status
+
+git diff
